@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id":"450923",
-        "name":"guangxi"
+        "id":"广西壮族自治区",
+        "name":"广西"
       
       },
       "geometry": {
@@ -895,8 +895,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id":"450922",
-        "name":"guangdong"
+        "id":"广东省",
+        "name":"广东"
       },
       "geometry": {
         "type": "Polygon",
